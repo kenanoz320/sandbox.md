@@ -1,27 +1,29 @@
-1. Je nach Webseite, welche Sie aufrufen, erhalten Sie unterschiedliche Optionen zur Auswahl. Welche Möglichkeiten finden Sie? Zeigen Sie verschiedene Beispiele!
+# Cookies
 
-Man kann zum Beispiel „Alle akzeptieren“, „Ablehnen“ oder „Einstellungen“ auswählen. Bei manchen kann man einzelne Cookies auswählen.
+### 1. Je nach Webseite, welche Sie aufrufen, erhalten Sie unterschiedliche Optionen zur Auswahl. Welche Möglichkeiten finden Sie? Zeigen Sie verschiedene Beispiele!
 
-2. Warum werden seit einiger Zeit solche Banner angezeigt? Seit wann? Ist das nur auf Schweizer Websites der Fall?
+Man kann zum Beispiel **„Alle akzeptieren“**, **„Ablehnen“** oder **„Einstellungen“** auswählen. Bei manchen kann man einzelne Cookies auswählen.
 
-Wegen dem Datenschutz. In der Schweiz gibt es seit dem 1. September 2023 neue Regeln. Das gibt es auch in anderen Ländern.
+### 2. Warum werden seit einiger Zeit solche Banner angezeigt? Seit wann? Ist das nur auf Schweizer Websites der Fall?
 
-Was sind Cookies?
+Wegen dem **Datenschutz**. In der Schweiz gibt es seit dem **1. September 2023** neue Regeln. Das gibt es auch in anderen Ländern.
 
-Cookies sind kleine Daten, die eine Webseite im Browser speichert.
+### Was sind Cookies?
 
-Welche Arten von Cookies werden unterschieden?
+Cookies sind kleine **Daten**, die eine Webseite im Browser speichert.
 
-Es gibt notwendige, Statistik- und Marketing-Cookies.
+### 3. Welche Arten von Cookies werden unterschieden?
 
-Wo kann man diese im Browser anschauen?
+Es gibt **notwendige, Statistik- und Marketing-Cookies**.
 
-In den Browser-Einstellungen bei Datenschutz oder Cookies.
+**Wo kann man diese im Browser anschauen?**
 
-Braucht es Cookies?
+In den **Browser-Einstellungen** bei Datenschutz oder Cookies.
 
-Einige schon, damit die Webseite richtig funktioniert. Andere sind nicht unbedingt nötig.
+### 4. Braucht es Cookies?
 
-Welche Ziele haben die Besitzer der Webseiten? Was möchten Sie erreichen? Warum?
+Einige schon, damit die Webseite **richtig funktioniert**. Andere sind nicht unbedingt nötig.
 
-Sie wollen Besucher erkennen, Daten sammeln und Werbung zeigen. Damit können sie die Webseite verbessern und Geld verdienen.
+### 5. Welche Ziele haben die Besitzer der Webseiten? Was möchten Sie erreichen? Warum?
+
+Sie wollen **Besucher erkennen, Daten sammeln und Werbung zeigen**. Damit können sie die Webseite verbessern und Geld verdienen.
